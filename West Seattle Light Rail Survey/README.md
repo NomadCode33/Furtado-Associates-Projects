@@ -7,25 +7,17 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Tech used:** Trimble S/VX Total Stations, Leica P50 LiDAR Scanner, Office Database, Printer
 
-Disclaimer about the work policy and that I can't take work documents out, but I can still talk about it
+There is no document nor picture showing this project since Furtado & Associates has a policy of not keeping company property for personal use, which includes data. I can however can still talk about the work that was done and the process on how the products are made.
 
-Talk about how we do different types of projects liek infrastructure, CCTVs on swers and such, cutting down shurbs and greenery to get the data points that we need for a bunch of different clients and stakeholders.
+The Survey department spends time outside in the field collecting data points for clients/stakeholders for development projects on infrastructure and even on other types of projects lkike CCTVs on sewers and pipelines and even in forest areas and I have aken part in a decent amount of them.
 
-First things first, we consulted with the field team in the office to give us guidance and pointers on what we need to do. Then we drive out to the location.
+First things first, before going outside we consulted with the field team in the office to give us guidance and pointers on what we need to do and general tips on how we should conduct surveys for that general area or project. Then we drive out to the location carrying our equipment to be used in the vehicle. We set up the arms which allows us to mount up the equipment and measure and records data and attach the equipment on there adn we either start a new project or resume an existing project. From here it branches off into two types of projects which use either the Leica P50 LiDAR Scanner or the Trimble S/VX Total Stations that generate 3D representations and topographical analysis in the Sound Transit West Seattle Light Rail project respectively.
 
-We set up the arms which allows us to mount up the equipment and measure and records data and attach the equipment on there adn we either start a new project or resume an existing project.
+### Leica P50 LiDAR Scanner
+When we get to the project area, we either start or resume an exisitng project.
+The project we were on was the West Seattle Light Rail project. The stakeholders/clients are Sound transit, they relied on us to measure out points for the Light Rail that is being developed there. The points we record helps them out with their decision in the construction process. We went around the a good majority of West Seattle to record these points.
 
-From here it branches off into two types of projects:
-<br>
-**Leica P50**
-We either start or resume an exisitng project.
-The project we were on was the West Seattle Light Rail project. The stakeholders/clients are SOund transit and they relied on us to measure out points for the Light Rail that is being developed there. The points we take help them out with their decision in the construction process. We went around the a good majority of West Seattle to record these points.
-
-While we do that we set up the arms  and the control points that were previously installed on the ground. 
-
-It intially starts off with two arms to intially travel and record the points accordingly. 
-
-Then it goes to three arms with one arms representing the previous point, one showing the current point that it's on, and one that goes to the point where it will go next. 
+The first step is setting up the arms over the control points that were previously installed on the ground on previous recon/surveying spot and installing the Leica P50 Scanner device on it. When starting or resumoing a project, it intially starts off with two arms with the current arm being the point we start off on and another arm to where it will travel to to junpstart our progression to travel and record the points accordingly. The second arm has a black and white target bullseye that is mounted on the arm, this target helps the Leica P50 focus on the next point, record it, and save it to be later used as the current position and ultimately helps with 3D construction. After the basic setup is finished, we then use three arms with one arm representing the previous point, one showing the current point that it's on, and one that goes to the point where it will go next. The previous point and future point has those same targets on them so that when the Leica P50 scans the points it provides the boundaries for how close or far the machine has to go when scanning the area in 3D.
 
 While the measure the points are measured, I put them into the legal book which is a documentary of all the steps and rocesses taken. 
 
@@ -39,8 +31,10 @@ After we are done for teh day, we go back to the office.
 
 We upload all the data into the office database with the correct file format which also included scanning the legal book and other documents so everyone can view data.
 
+This project used the Leica P50 LiDAR Scanner and Trimble S/VX Total Stations for 3D representations and topographical analysis in the Sound Transit West Seattle Light Rail project. These tools, including ArcGIS Pro and Autodesk Civil 3D, helped the public and project team understand survey results. Data was processed through an internal pipeline for cleaning and conversion before being delivered to clients.
 
-**Trimble S/VX Total Stations** <br>
+
+### Trimble S/VX Total Stations
 We either start or resume an exisitng project.
 
 The project we were on was the West Seattle Light Rail project. We use this device to scan everything in the area such as utilities like power boxes, curbsides, property lines, and anything you can think of on the street. This is used to have clients/stakehodler like SOund Transit to actively see what is in their surroundings so they don't encorach on proerty or even ruin important things like power boxes.
