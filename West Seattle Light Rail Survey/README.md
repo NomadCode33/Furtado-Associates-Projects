@@ -13,12 +13,13 @@ Talk about how we do different types of projects liek infrastructure, CCTVs on s
 
 First things first, we consulted with the field team in the office to give us guidance and pointers on what we need to do. Then we drive out to the location.
 
-We set up the arms and attach the equipment on there adn we either start a new project or resume an existing project.
+We set up the arms which allows us to mount up the equipment and measure and records data and attach the equipment on there adn we either start a new project or resume an existing project.
 
 From here it branches off into two types of projects:
 <br>
 Leica P50
-We either start or resume an exisitng project
+We either start or resume an exisitng project.
+While we do that we set up the arms  and the control points that were previously installed on the ground. It intially starts off with two arms to intially travel and record the points accordingly. Then it goes to three arms with one arms representing the previous point, one showing the current point that it's on, and one 
 
 
 
