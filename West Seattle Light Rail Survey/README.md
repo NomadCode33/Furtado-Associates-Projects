@@ -9,8 +9,23 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 Disclaimer about the work policy and that I can't take work documents out, but I can still talk about it
 
+Talk about how we do different types of projects liek infrastructure, CCTVs on swers and such, cutting down shurbs and greenery to get the data points that we need for a bunch of different clients and stakeholders.
 
-First things first, we consulted with the field team in the office to give us guidance and pointers on what we need to do
+First things first, we consulted with the field team in the office to give us guidance and pointers on what we need to do. Then we drive out to the location.
+
+We set up the arms and attach the equipment on there adn we either start a new project or resume an existing project.
+
+From here it branches off into two types of projects:
+Leica P50
+We either start or resume an exisitng project
+
+
+
+
+
+
+
+
 
 
 
