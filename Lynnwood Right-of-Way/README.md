@@ -3,9 +3,11 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 ## How It's Made:
 
-**Tech used:** Autodesk Civil 3D, Microsoft Excel, Microsoft Word, Office Database
+**Tech used:** Autodesk Civil 3D, Microsoft Word, Office Database
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+Disclaimer about the work policy and that I can't take work documents out, but I can still talk about it
+
+
 
 ## Optimizations
 *(optional)*
