@@ -19,20 +19,9 @@ The project we were on was the West Seattle Light Rail project. The stakeholders
 
 The first step is setting up the arms over the control points that were previously installed on the ground on previous recon/surveying spot and installing the Leica P50 Scanner device on it. When starting or resumoing a project, it intially starts off with two arms with the current arm being the point we start off on and another arm to where it will travel to to junpstart our progression to travel and record the points accordingly. The second arm has a black and white target bullseye that is mounted on the arm, this target helps the Leica P50 focus on the next point, record it, and save it to be later used as the current position and ultimately helps with 3D construction. After the basic setup is finished, we then use three arms with one arm representing the previous point, one showing the current point that it's on, and one that goes to the point where it will go next. The previous point and future point has those same targets on them so that when the Leica P50 scans the points it provides the boundaries for how close or far the machine has to go when scanning the area in 3D.
 
-While the measure the points are measured, I put them into the legal book which is a documentary of all the steps and rocesses taken. 
+During the process of measuring the points, I put them into the legal book which is a documentary of all the steps, processes taken, and most importantly recording all the points taken during our surveying venture. It's important to take notes in this document one because it can be used as reference to check and verify what the measurements were and two because if a court case is done and there is foul play or a mistake in measurement they will look through it as evidence. After all the points and measurements are recorded and inputted, the Leica then scanned the area in a 360 degrees to scan everything into a 3D area as well as take pictures. The process is then repeated until we captured all the ponts in the West Seattle area.
 
-It's important to take notes in this document because if a court case is done they will look through it. 
-
-After all the points and measurements are recorded and inputted, the Leica then scanned the area in a 360 degrees to scan everything into a 3D area as well as take pictures.
-
-The process is then repeated until we captured all the ponts in the West Seattle area.
-
-After we are done for teh day, we go back to the office.
-
-We upload all the data into the office database with the correct file format which also included scanning the legal book and other documents so everyone can view data.
-
-This project used the Leica P50 LiDAR Scanner and Trimble S/VX Total Stations for 3D representations and topographical analysis in the Sound Transit West Seattle Light Rail project. These tools, including ArcGIS Pro and Autodesk Civil 3D, helped the public and project team understand survey results. Data was processed through an internal pipeline for cleaning and conversion before being delivered to clients.
-
+After we are done for the day, we go back to the office. We upload all the data into the office database with the correct file format which also included scanning the legal book and other documents so everyone can view data. These tools, including ArcGIS Pro and Autodesk Civil 3D are then used by other departments in Furtado & Associates, data was processed through an internal pipeline for cleaning and conversion before being delivered to clients. Once quality assurance is finished and everything is accurate and verified, it's later sent to SOund transit for further processing and cleaning. Eventually the data collected with be processed and cleaned and be sent out to the public for them to know the specifics of the new Light rail Station being built. This process helps both the public and project team understand survey results. 
 
 ### Trimble S/VX Total Stations
 We either start or resume an exisitng project.
