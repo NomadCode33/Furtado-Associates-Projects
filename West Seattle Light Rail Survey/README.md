@@ -5,7 +5,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 ## How It's Made:
 
-**Tech used:** Trimble S/VX Total Stations, Leica P50 LiDAR Scanner, Office Database
+**Tech used:** Trimble S/VX Total Stations, Leica P50 LiDAR Scanner, Office Database, Printer
 
 Disclaimer about the work policy and that I can't take work documents out, but I can still talk about it
 
@@ -37,7 +37,7 @@ The process is then repeated until we captured all the ponts in the West Seattle
 
 After we are done for teh day, we go back to the office.
 
-We upload all the data into the office database with the correct file format which also included scanning the legal book andother documents so everyone can view them.
+We upload all the data into the office database with the correct file format which also included scanning the legal book and other documents so everyone can view data.
 
 
 Trimble S/VX Total Stations
