@@ -16,6 +16,7 @@ First things first, we consulted with the field team in the office to give us gu
 We set up the arms and attach the equipment on there adn we either start a new project or resume an existing project.
 
 From here it branches off into two types of projects:
+<br>
 Leica P50
 We either start or resume an exisitng project
 
@@ -24,7 +25,7 @@ We either start or resume an exisitng project
 
 
 
-
+</br>
 
 
 
