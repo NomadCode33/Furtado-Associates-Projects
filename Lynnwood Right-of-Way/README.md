@@ -3,11 +3,17 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 ## How It's Made:
 
-**Tech used:** Autodesk Civil 3D, Microsoft Word, Office Database
+**Tech used:** Autodesk Civil 3D, Microsoft Word, Office Database, Microsoft Teams
+
+I do have a document of the steps done, but it won't as detailed as the boundary maps
 
 Disclaimer about the work policy and that I can't take work documents out, but I can still talk about it
 
+This department works together to get things done while hanfling land use permits, parcel maps, and quality checks. We often used Microsoft Teams to have meetings with each other and delve into the deadlines of the projects that we have to get done.
 
+I then jump into Autodesk Civil 3D and teh document on the parcel map from Lynnwood. I perform QA/QC on the parcel document comparing it to the original map source. I verified buulding measurements, if the xoning proeprry lines are correct, fee codes up to date, easements are correct, as well as building dimensions being correct and accurate. For building dimensions, i often go to the county website to find them and vrfiy them myself on based off the parcel and proerty information. I also looks for errors on the parcel map document itself to see of the legend icons are correct snd everything on the map lines up properly. After findings all the errors, I then comment/annotate al the errors to have the people that made the document to make changes accordingly. 
+
+I also learned how to make legal documents as well. I used the information from the website regarding property information into the doucment and cited my sources, and other legal information that is important for the construction of buildings. Lastly, using the information from the parcel map aboutthe buulding being presented. I learned linear referencing using North, SOuth, East, and West and degrees to pinpoint building landmarks for development in the eyes of the development crew for the stakeholder. Through this, I presented technical and non-technical information to technical and non-technical audiences in a rpofessional setting.
 
 ## Optimizations
 *(optional)*
