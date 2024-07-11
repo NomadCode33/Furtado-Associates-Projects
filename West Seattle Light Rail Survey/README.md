@@ -5,7 +5,7 @@ In the Survey department, we collected data points for various projects, includi
 
 **Tech used:** Trimble S/VX Total Stations, Leica P50 LiDAR Scanner, Office Database, Printer
 
-**Disclaimer:** Furtado & Associates maintains a policy of not allowing company property for personal use, so I don't have any documents or pictures of my project. However, I can describe the work I did and the process we followed.
+**Disclaimer:** Furtado & Associates maintains a policy of not allowing company property for personal use, so I don't have any documents or pictures of my project. However, I can describe the work I did and the process I followed.
 
 In the Survey department, we collected data points for a variety of projects, from infrastructure development to monitoring CCTVs in sewers and pipelines, and even in forest areas. My role involved both fieldwork and office coordination.
 
