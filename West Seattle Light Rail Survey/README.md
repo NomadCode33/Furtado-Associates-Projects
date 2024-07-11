@@ -19,22 +19,37 @@ From here it branches off into two types of projects:
 <br>
 Leica P50
 We either start or resume an exisitng project.
-While we do that we set up the arms  and the control points that were previously installed on the ground. It intially starts off with two arms to intially travel and record the points accordingly. Then it goes to three arms with one arms representing the previous point, one showing the current point that it's on, and one 
+The project we were on was the West Seattle Light Rail project. The stakeholders/clients are SOund transit and they relied on us to measure out points for the Light Rail that is being developed there. The points we take help them out with their decision in the construction process. We went around the a good majority of West Seattle to record these points.
+
+While we do that we set up the arms  and the control points that were previously installed on the ground. 
+
+It intially starts off with two arms to intially travel and record the points accordingly. 
+
+Then it goes to three arms with one arms representing the previous point, one showing the current point that it's on, and one that goes to the point where it will go next. 
+
+While the measure the points are measured, I put them into the legal book which is a documentary of all the steps and rocesses taken. 
+
+It's important to take notes in this document because if a court case is done they will look through it. 
+
+After all the points and measurements are recorded and inputted, the Leica then scanned the area in a 360 degrees to scan everything into a 3D area as well as take pictures.
+
+The process is then repeated until we captured all the ponts in the West Seattle area.
+
+After we are done for teh day, we go back to the office.
+
+We upload all the data into the office database with the correct file format which also included scanning the legal book andother documents so everyone can view them.
 
 
-
-
-
-
-</br>
+Trimble S/VX Total Stations
 
 
 
 
 ## Optimizations
-*(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+I didn't exactly says this to the coworker I was working with but I found out a faster way of pointing out points.
+
+I noticed that we included the points of the streets as we moved the arms in the area. I noted that it would be faster to have the Leica scan that points without going more into the streeet. It would've saved more time in the long run and make us more efficient.
 
 ## Lessons Learned:
 
