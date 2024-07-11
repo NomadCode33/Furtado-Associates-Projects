@@ -17,7 +17,7 @@ We set up the arms which allows us to mount up the equipment and measure and rec
 
 From here it branches off into two types of projects:
 <br>
-Leica P50
+**Leica P50**
 We either start or resume an exisitng project.
 The project we were on was the West Seattle Light Rail project. The stakeholders/clients are SOund transit and they relied on us to measure out points for the Light Rail that is being developed there. The points we take help them out with their decision in the construction process. We went around the a good majority of West Seattle to record these points.
 
@@ -40,10 +40,19 @@ After we are done for teh day, we go back to the office.
 We upload all the data into the office database with the correct file format which also included scanning the legal book and other documents so everyone can view data.
 
 
-Trimble S/VX Total Stations
+**Trimble S/VX Total Stations** <br>
+We either start or resume an exisitng project.
 
+The project we were on was the West Seattle Light Rail project. We use this device to scan everything in the area such as utilities like power boxes, curbsides, property lines, and anything you can think of on the street. This is used to have clients/stakehodler like SOund Transit to actively see what is in their surroundings so they don't encorach on proerty or even ruin important things like power boxes.
 
+On the Trimble there is a device that is mounted with a tablet like computer to input poits, special glass that is mounted on a rod or arm that measures points. The Trimble allows us to measure more topgraphically to measure more things like elevation the way that the Leica P50 can't do on its own. We set up at least 2 arms, one for our reference point and one where we mount the Trimble deivce on the arm so it can lock on. The way it works is that the team captain uses the rod to go to the control points posted on the ground and the trimble device on the arm locks in automatically or manually by the user on the rod with the speciall glass to precise measure down the point.  On the tablet, I verify the settings and the point locks-in. There are specific measurements like offset for certain points that would translate well on the am, to make it right they use certain formulas to make it correct on the map. We also verifiy if the measurmeent forthe reference point we put down is okay periodically.
 
+We repeat the process for the rest of the points until we go back to the office
+
+We upload all the data into the office database with the correct file format which also included scanning the legal book and other documents so everyone can view data.
+
+**CCTV**
+This wasn't on the West Seattle Light Rail project but rather on other projects like the one I also worked on in Lynnwood. We use a long measuring stick, a protractor, mesuring tape, and other tools to have measurements of sewers and pipes. We go by each pipes located underground and also draw diagrams to show where they are located and know which ones are connected to where.
 
 ## Optimizations
 
