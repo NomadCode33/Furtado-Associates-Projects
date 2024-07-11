@@ -24,7 +24,7 @@ The Trimble setup included the main device mounted on an arm, a tablet-like comp
 ### Data Processing and Integration
 At the end of each day, we returned to the office and uploaded all data from the Leica P50 and Trimble S/VX to the office database, scanned the legal book, and other documents. The data was then processed through internal pipelines for cleaning and conversion before being delivered to clients. Tools like ArcGIS Pro and Autodesk Civil 3D were used for further processing. Once quality assurance was complete, the data was sent to Sound Transit for final processing and public release, helping both the public and the project team understand the survey results.
 
-#### CCTV Projects
+### CCTV Projects
 For other projects, such as one in Lynnwood, we used CCTV for sewer and pipeline inspections. This involved using long measuring sticks, protractors, measuring tapes, and other tools to measure underground pipes. We documented the layout and connections of the pipes through diagrams and detailed notes.
 
 Although I don't have visual documentation, I can convey the comprehensive and meticulous process involved in these surveying projects, from field data collection to final data processing and delivery.
