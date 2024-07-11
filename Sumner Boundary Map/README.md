@@ -9,6 +9,8 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 Disclaimer about the work policy and that I can't take work documents out, but I can still talk about it
 
+Refer to the documents I took notes on to show the steps that I've done
+
 ## Optimizations
 
 fdfdfdfd
