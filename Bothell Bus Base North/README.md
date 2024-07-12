@@ -7,10 +7,9 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Tech used:** Autodesk Civil 3D, Microsoft Excel, BlueBeam, Office Database
 
+I opened up Autodesk Civil 3D to set up the workspace. I added lisp routines and ran through common CAD commands to familiarize myself with the software. This also invloved learning standards, styles, and naming conventions. I was also familiarized with the folder strucutre of the office database and th esupporting data in the various formats and using those different programs like BlueBeam, Excel, Monday.com, etc.
 
-I opened up Autodesk Civil 3D to set up the workspace. I added lisp routines and ran through common CAD commands to familiarize myself with the software. This also invloved learning standards, styles, and naming conventions. I was also familiarized with the folder strucutre of the office database and th esupporting data in the arious formats and using those different programs like BlueBeam, Excel, Monday.com, etc.
-
-got the data from the office database and 
+After getting acquainted with the resources it was time for me    got the data from the office database and 
 
 From there I set up the map scene with the correct settings before adding the data
 
