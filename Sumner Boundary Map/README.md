@@ -1,5 +1,5 @@
 # Sumner Boundary & Raster Maps
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+The Sumner Boundary Map project, undertaken independently, involved creating a comprehensive and accurate map of the Sumner area using ArcGIS Pro. The project included establishing the project boundary, gathering and cleansing various datasets, integrating data into Autodesk Civil 3D for enhanced management and visualization, and creating a high-resolution raster map for detailed visual representation.
 
 **Disclaimer:** Furtado & Associates maintains a policy of not allowing company property for personal use, so I don't have any documents or pictures of my project. However, I can describe the work I did and the process we followed.
 
@@ -41,17 +41,52 @@ Through this intricate process, the Sumner Boundary Map came to life, a testamen
 
 ## Optimizations
 
-fdfdfdfd
+Crafting the Sumner Boundary Map was a meticulous journey that demanded precision and a deep understanding of geographic information systems (GIS). One of the first steps was aligning the project with Furtado’s specialized coordinate system. This alignment was crucial for achieving the high precision and accuracy required for reliable project outcomes, ensuring that every detail was mapped with exactness.
+
+To manage and optimize the data efficiently, I employed the Extract, Transform, Load (ETL) process alongside the Feature Class to Feature Class tool. This combination was instrumental in cleaning and organizing the data, which significantly improved both the quality of the data and the speed at which it could be loaded and processed. 
+
+Highlighting only the relevant information was another key optimization. By using the Select By Location and Selection By Attributes for Boundaries tools, I could filter the data effectively, making it more manageable and focused. This selective data highlighting ensured that the most pertinent information was readily accessible, streamlining the entire project.
+
+Integrating the data into Autodesk Civil 3D was a transformative step. By exporting GIS data to Autodesk CAD software via the Feature Class to Shapefile tool, I optimized data management and visualization. This integration enabled precise area specifications and comprehensive project scopes, allowing for detailed and accurate visual representations of the mapped areas.
+
+Creating the raster map involved subdividing boundaries and exporting high-resolution GeoTIFF files. This step was essential for faster rendering times and achieving a detailed visual representation of Sumner. The high-resolution output ensured that the final map was both visually appealing and highly usable, providing a clear and detailed overview of the area.
+
+These optimizations collectively enhanced the project's efficiency, accuracy, and visual appeal. They were crucial in the successful creation of the Sumner Boundary Map, demonstrating a blend of technical prowess and creative problem-solving that brought the map to life.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+One of the most significant lessons from the Sumner Boundary Map project was the importance of precision and attention to detail. Adjusting the coordinate system to align with Furtado’s specialized system ensured accuracy and reliability, which is why companies like Sound Transit trust our work. The meticulous approach to data handling, from gathering to cleansing and verifying metadata, highlighted the critical role of data integrity in mapping projects.
+
+Another key lesson was the value of seamless integration across different platforms. The process of transferring data from ArcGIS to Autodesk Civil 3D demonstrated the necessity of compatibility and the benefits of using the right tools for specific tasks. This integration allowed for better management and visualization, making the project scope more precise and comprehensive.
+
+Lastly, the project emphasized the importance of continuous learning and adaptation. Each step, from creating labels and pipes to generating raster map tiles, required a blend of technical skills and creative problem-solving. This experience underscored the need to stay updated with the latest tools and techniques in GIS and data mapping.
+
+## Repositories
+**Profile:** [T3ch12et](https://github.com/T3ch12et)
+
+**Furtado & Associates Repository:** [Furtado & Associates Projects]()
+
+**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Oso Mudslide:** [Oso Mudslide](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide)
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851) 
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**Coral Reef Dashboard:** [Coral Reef Dashboard](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Coral-Reef-Dashboard)
+
+**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
+
+**Addressing Climate Change:** [Using GIS to address climate change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/blob/main/ESRI-MOOC-GIS-for-Climate-Action/Addressing-Climate-Change/README.md)
+
+**Shipping in 1770:** [World Shipping in 1770](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Shipping-in-1770)
+
+**Ship Race from Spain to Puerto Rico:** [Ship Race: Spain to Puerto Rico](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Ship-Race-Spain-to-Puerto-Rico-1770)
+
+**Map of Massachusetts:** [Map of Massachusetts](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-Massachusetts)
+
+**Map of New York:** [Map of New York](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-New-York)
+
+**Spilhaus Layout:** [Spilhaus Layout Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Spilhaus-Layout)
