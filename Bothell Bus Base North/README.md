@@ -1,5 +1,5 @@
 # Bothell Bus Base North
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+This project involved mastering Autodesk Civil 3D to efficiently process, clean, and manage geospatial data, ultimately leading to the successful construction of a 3D model of Bothell Creek. Through a detailed workflow, including data preparation, quality control, and point cloud integration, I ensured high accuracy and precision in the final output.
 
 **Disclaimer:** Furtado & Associates maintains a policy of not allowing company property for personal use, so I don't have any documents or pictures of my project. However, I can describe the work I did and the process we followed.
 
@@ -7,31 +7,21 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Tech used:** Autodesk Civil 3D, Microsoft Excel, BlueBeam, Office Database
 
-I opened up Autodesk Civil 3D to set up the workspace. I added lisp routines and ran through common CAD commands to familiarize myself with the software. This also invloved learning standards, styles, and naming conventions. I was also familiarized with the folder strucutre of the office database and th esupporting data in the various formats and using those different programs like BlueBeam, Excel, Monday.com, etc.
+Diving into Autodesk Civil 3D, my first task was to set up the workspace and map scene with the correct settings. This foundational step ensured a smooth workflow as I moved forward. To become proficient, I added lisp routines and ran through common CAD commands, which helped me familiarize myself with the software’s capabilities. This process also involved learning the standards, styles, and naming conventions essential for maintaining consistency and accuracy in my work.
 
-After getting acquainted with the resources it was time for me    got the data from the office database and 
+Understanding the office database's folder structure and supporting data formats was another critical aspect of my preparation. I navigated various programs like BlueBeam, Excel, and Monday.com, integrating them seamlessly into my workflow. This groundwork was crucial for efficient data management and project execution.
 
-From there I set up the map scene with the correct settings before adding the data
+With these resources at my disposal, I turned my attention to the field data. Retrieving the data from the office database, I began by copying the points and moving them away from the original dataset. This step was part of the Point-Block Separation Procedure, designed to modify data properties, remove COGO names and symbols, and optimize the data before repositioning it. After moving the data back to its original location, I meticulously removed any remaining duplicates.
 
-I added in the data, but I first copied the points and moved it away from the orignal. This is meant to change the data proeprties so the COGO names, symbols are taken out, and everything else is properly optimized and primed before moving the data back. I moved the data back to original spot and removed ay duplicates remaining.
+Using Microsoft Excel, I reviewed the code names and followed specific instructions for quality control (QC) of the points. These code names guided various tasks, such as adding labels, deleting incorrect symbols, and ensuring the proper symbols were used. I synchronized point clouds with real-world geospatial data to enhance 3D linework and COGO points, ensuring spatial data accuracy and authenticity for demographic analysis using Autodesk Civil 3D.
 
-I used Microsoft Excel to view the code names and followed the directions on what I should do. Code names provide different steps of what I need to such as adding it a label, deleting something from the symbol, adding in symbols or putting the correct symbol, and much more. I repeated the process until I completed the entire project.
+Field data processing involved integrating linework and symbology for various features, including landmarks, roads, structures, and utilities. I worked with field data from field books, dips, and structure as-built data. Extracting data from the Point Cloud in both 2D and 3D required keen attention to detail and familiarity with Furtado & Associates' scan mapping policies. I learned the best practices for Point Cloud data extraction, enhancing my understanding of how to effectively combine conventional topographical field survey data with modern technologies. This iterative process continued until the entire project was completed, ensuring high-quality results.
 
-I also constructed a 3D polygon creek, it was very intesnive involving to go off of certain points.
-
-
-
-
-Synchronized point clouds with real-world geospatial data to enhance 3D linework and COGO points, ensuring spatial data accuracy and authenticity for demographic analysis using Autodesk Civil 3D. Field data was also processed to integrate linework and symbology for various features, such as landmarks, roads, structures, and utilities.
-
-## Optimizations
-*(optional)*
-
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+One of the highlights of this journey was constructing a 3D polygon model of Bothell Creek. Using 3D linework and spot elevation data, I built the surface in a single, cohesive effort. The surface-building process was intensive, demanding close attention to specific points to create an accurate and effective 3D surface. Through meticulous edits and adjustments, I achieved a detailed and reliable model, showcasing the culmination of my learning and application of Autodesk Civil 3D.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+Through this project, I learned the critical importance of setting up a workspace with precise settings in Autodesk Civil 3D, which laid the foundation for a smooth workflow. I became proficient in the software by adding lisp routines and practicing common CAD commands, gaining familiarity with essential standards, styles, and naming conventions. Understanding the office database's structure and various supporting data formats was pivotal, as it enabled efficient data management and seamless integration of tools like BlueBeam, Excel, and Monday.com. Handling field data involved meticulous processes, such as the Point-Block Separation Procedure and quality control using Microsoft Excel, ensuring data accuracy and optimization. Synchronizing point clouds with real-world geospatial data enhanced the accuracy of 3D linework and COGO points, crucial for demographic analysis. Extracting and integrating data from Point Clouds in both 2D and 3D required attention to detail and adherence to best practices. The culmination of my efforts was the construction of a 3D polygon model of Bothell Creek, which demanded intensive surface-building processes and precise edits, resulting in a detailed and reliable model that demonstrated my comprehensive learning and application of Autodesk Civil 3D.
 
 ## Repositories
 **Profile:** [T3ch12et](https://github.com/T3ch12et)
@@ -43,8 +33,22 @@ No matter what your experience level, being an engineer means continuously learn
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/alecortega/palettable
+**Athens Heat Risk Index:** [Athens Heat Risk Index](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Athens-Heat-Risk-Index)
 
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
+**Oso Mudslide:** [Oso Mudslide](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Oso-Mudslide)
 
-**Patch Panel:** https://github.com/alecortega/patch-panel
+**Hurricanes since 1851:** [Hurricanes since 1851](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Hurricanes-since-1851) 
+
+**Coral Reef Dashboard:** [Coral Reef Dashboard](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Coral-Reef-Dashboard)
+
+**Rondonia Land Cover Change:** [Rondonia Land Cover Change from 1992 to 2020](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-GIS-for-Climate-Action/Rondonia-Land-Cover-Change)
+
+**Addressing Climate Change:** [Using GIS to address climate change](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/blob/main/ESRI-MOOC-GIS-for-Climate-Action/Addressing-Climate-Change/README.md)
+
+**Shipping in 1770:** [World Shipping in 1770](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Shipping-in-1770)
+
+**Ship Race from Spain to Puerto Rico:** [Ship Race: Spain to Puerto Rico](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Ship-Race-Spain-to-Puerto-Rico-1770)
+
+**Map of Massachusetts:** [Map of Massachusetts](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-Massachusetts)
+
+**Map of New York:** [Map of New York](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-New-York)
