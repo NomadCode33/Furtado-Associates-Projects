@@ -38,7 +38,7 @@ No matter what your experience level, being an engineer means continuously learn
 ## Repositories
 **Profile:** [T3ch12et](https://github.com/T3ch12et)
 
-**Furtado & Associates Repository:** [Furtado & Associates Projects]()
+**Furtado & Associates Repository:** [Furtado & Associates Projects](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects)
 
 **Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
 
