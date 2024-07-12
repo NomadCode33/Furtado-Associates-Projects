@@ -1,6 +1,8 @@
 # Bothell Bus Base North
 Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
+**Disclaimer:** Furtado & Associates maintains a policy of not allowing company property for personal use, so I don't have any documents or pictures of my project. However, I can describe the work I did and the process we followed.
+
 ## How It's Made:
 
 **Tech used:** Autodesk Civil 3D, Microsoft Excel, Office Database
@@ -32,6 +34,13 @@ You don't have to include this section but interviewers *love* that you can not 
 ## Lessons Learned:
 
 No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+
+## Repositories
+**Profile:** [T3ch12et](https://github.com/T3ch12et)
+
+**Furtado & Associates Repository:** [Furtado & Associates Projects]()
+
+**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
