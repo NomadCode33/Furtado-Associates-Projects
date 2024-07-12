@@ -1,11 +1,11 @@
 # West Seattle Light Rail Survey
 In the Survey department, we collected data points for various projects, including infrastructure development, CCTV monitoring in sewers and pipelines, and forest area surveys. My role encompassed both fieldwork and office coordination.
 
+**Disclaimer:** Furtado & Associates maintains a policy of not allowing company property for personal use, so I don't have any documents or pictures of my project. However, I can describe the work I did and the process we followed.
+
 ## How It's Made:
 
 **Tech used:** Trimble S/VX Total Stations, Leica P50 LiDAR Scanner, Office Database, Printer
-
-**Disclaimer:** Furtado & Associates maintains a policy of not allowing company property for personal use, so I don't have any documents or pictures of my project. However, I can describe the work I did and the process I followed.
 
 In the Survey department, we collected data points for a variety of projects, from infrastructure development to monitoring CCTVs in sewers and pipelines, and even in forest areas. My role involved both fieldwork and office coordination.
 
@@ -36,6 +36,13 @@ I didn't explicitly mention this to my coworker, but I discovered a more efficie
 ## Lessons Learned:
 
 During my time at Furtado & Associates, I learned the importance of meticulous data collection and documentation. Working with advanced tools like the Leica P50 LiDAR Scanner and Trimble S/VX Total Stations taught me the technical skills needed to capture precise data points. I also developed strong collaboration skills through field team consultations and gained experience in data processing and quality assurance. This project reinforced the necessity of accurate records and the role of technology in ensuring reliable data for large-scale infrastructure projects.
+
+## Repositories
+**Profile:** [T3ch12et](https://github.com/T3ch12et)
+
+**Furtado & Associates Repository:** [Furtado & Associates Projects]()
+
+**Main Repository:** [GIS Data Science Portfolio](https://github.com/T3ch12et/GIS-Data-Science-Portfolio)
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
