@@ -12,6 +12,6 @@ The Drafting department introduced me to the intricacies of processing 2D and 3D
 Each department offered unique challenges and learning opportunities, contributing to a comprehensive and engaging internship experience. This journey not only refined my technical skills but also provided a holistic view of GIS applications across various facets of the company.
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** https://github.com/NomadCode33
 
-**Main Directory:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Directory:** https://github.com/NomadCode33/GIS-Data-Science-Portfolio
