@@ -64,15 +64,15 @@ Lastly, the project emphasized the importance of continuous learning and adaptat
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Lynnwood Right-of-Way:** [Lynnwood Right-of-Way](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Lynnwood%20Right-of-Way)
+**Lynnwood Right-of-Way:** [Lynnwood Right-of-Way](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects/Lynnwood%20Right-of-Way)
 
-**Map of Massachusetts:** [Map of Massachusetts](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-Massachusetts)
+**Map of Massachusetts:** [Map of Massachusetts](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/ESRI-MOOC-Cartography/Map-of-Massachusetts)
 
-**COVID Rates Map:** [COVID Interactive Rates Map](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/COVID-Interactive-Maps/COVID%20rates)
+**COVID Rates Map:** [COVID Interactive Rates Map](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/COVID-Interactive-Maps/COVID%20rates)
 
 ## Repositories
-**Profile:** https://github.com/T3ch12et
+**Profile:** https://github.com/NomadCode33
 
-**Furtado & Associates Repository:** [Furtado & Associates Projects](https://github.com/T3ch12et/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects)
+**Furtado & Associates Repository:** [Furtado & Associates Projects](https://github.com/NomadCode33/GIS-Data-Science-Portfolio/tree/main/Furtado-and-Associates-Projects)
 
-**Main Repository:** https://github.com/T3ch12et/GIS-Data-Science-Portfolio
+**Main Repository:** https://github.com/NomadCode33/GIS-Data-Science-Portfolio
