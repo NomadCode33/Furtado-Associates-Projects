@@ -1,5 +1,5 @@
 # North Bothell Bus Base
-A geospatial modeling project focused on constructing a high-accuracy 3D model of Bothell Creek using Autodesk Civil 3D. The workflow involved processing, cleaning, and managing geospatial data, with a strong emphasis on data preparation, quality control, and point cloud integration. Mastery of Civil 3D tools ensured precision throughout each stage, resulting in a detailed and reliable 3D representation of the creek for environmental and planning applications.
+Developed a high-accuracy boundary, terrain, and 3D polygon map of the North Bothell Bus Base in Civil 3D for a land development client, integrating point clouds and geospatial datasets to refine 3D linework and COGO points. Additionally, I modeled a detailed 3D polygon of the adjacent Bothell Creek area, applying advanced Civil 3D tools to ensure precision throughout the workflow. The project emphasized thorough data preparation, quality control, and close coordination with surveyors—delivering accurate, reliable models to support environmental planning and site development efforts.
 
 **Disclaimer:** Furtado & Associates maintains a policy of not allowing company property for personal use, so I don't have any documents or pictures of my project. However, I can describe the work I did and the process we followed.
 
